@@ -57,6 +57,7 @@ def compare_stemming_lemmatization(text):
     lemmatized_words = lemmatize_text(text)
     lemmatize_time = time.time() - start
 
+    print(f"Word Count {len(text)} words")
     print(f"Stemming Time: {stem_time:.6f} seconds")
     print(f"Lemmatization Time: {lemmatize_time:.6f} seconds")
 
