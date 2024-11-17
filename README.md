@@ -35,42 +35,52 @@ The following are the results from multiple tests comparing the time it takes fo
 ### Test Results:
 
 1. **Test 1**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.057559 seconds
    - Lemmatization Time: 2.858664 seconds
 
 2. **Test 2**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.075721 seconds
    - Lemmatization Time: 2.939014 seconds
 
 3. **Test 3**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.054525 seconds
    - Lemmatization Time: 2.939997 seconds
 
 4. **Test 4**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.044131 seconds
    - Lemmatization Time: 2.686534 seconds
 
 5. **Test 5**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.043380 seconds
    - Lemmatization Time: 2.683788 seconds
 
 6. **Test 6**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.051086 seconds
    - Lemmatization Time: 2.812119 seconds
 
 7. **Test 7**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.045296 seconds
    - Lemmatization Time: 2.775453 seconds
 
 8. **Test 8**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.043793 seconds
    - Lemmatization Time: 2.655179 seconds
 
 9. **Test 9**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.043671 seconds
    - Lemmatization Time: 2.818865 seconds
 
 10. **Test 10**: 
+   - Word Count: 9653 words
    - Stemming Time: 0.059875 seconds
    - Lemmatization Time: 2.798689 seconds
 
