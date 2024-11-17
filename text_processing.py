@@ -8,15 +8,13 @@ from nltk.stem import WordNetLemmatizer
 
 
 # Download necessary NLTK data
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
+# nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('wordnet')
 
 
 # Sample text
 data_text = 'data/healthcare.txt'
-
-test_data = 'The Evolution of Healthcare and Wellness: Challenges, Advancements, and Future Prospects The healthcare sector has undergone transformative changes over the last century, with remarkable advancements in medical technology, disease prevention, and the overall approach to patient care'
 
 #Function to read text from file
 def read_text_from_file(filepath):
@@ -63,7 +61,7 @@ def compare_stemming_lemmatization(text):
     print(f"Lemmatization Time: {lemmatize_time:.6f} seconds")
 
     print("\nStemmed Words:", stemmed_words)
-    print("\nLemmatized Words:", lemmatized_words)
+    print("\n\nLemmatized Words:", lemmatized_words)
 
     # Visualize the results
     words = ['Stemming', 'Lemmatization']
@@ -78,4 +76,4 @@ def compare_stemming_lemmatization(text):
 # Run the comparison
 healthcare_text = read_text_from_file(data_text)
 
-compare_stemming_lemmatization(test_data)
+compare_stemming_lemmatization(healthcare_text)
