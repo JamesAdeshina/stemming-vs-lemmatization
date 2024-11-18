@@ -84,7 +84,7 @@ The following are the results from multiple tests comparing the time it takes fo
    - Stemming Time: 0.059875 seconds
    - Lemmatization Time: 2.798689 seconds
 
-## Plot showing the Bar chart showng the comparison of Processing Time between Stemming and Lemmatization
+## Bar chart showng the comparison of Processing Time between Stemming and Lemmatization
 ![Plot showing the Bar chart showng the comparison of Processing Time between Stemming and Lemmatization](https://res.cloudinary.com/dezlc4u1i/image/upload/v1731886402/e7ukacyhp3h5xnsmkccp.png)
 
 ### Conclusion
